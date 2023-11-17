@@ -1,8 +1,5 @@
-<h1 class="header" style="text-align: center;">Hello, I'am Ivan</h1>
+<h1 align="center"">Hello, I'am Ivan</h1>
 <div align="center">
-    <h1>Hello, I'am Ivan</h1>
-</div>
-<div style="text-align: center;">
     <h1>Hello, I'am Ivan</h1>
 </div>
 
