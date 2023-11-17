@@ -1,4 +1,3 @@
-<h1 align="center"">Hello, I'am Ivan</h1>
 <div align="center">
     <h1>Hello, I'am Ivan</h1>
 </div>
