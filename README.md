@@ -16,7 +16,7 @@
 ### About me
 - :atom: I’m currently learning **frontend development**
 - :dart: I’m planning to learn a new profession
-- :email: Reach me by [Telegram](https://t.me/@Vano-ISS), [Email](vanya5@inbox.ru)
+- :email: Reach me by [Telegram](https://t.me/@Vano-ISS), [Email](mailto:vanya5@inbox.ru)
 
 <!--
 **Ivan-ISS/Ivan-ISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
