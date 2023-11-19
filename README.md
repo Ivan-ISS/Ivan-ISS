@@ -18,6 +18,8 @@
 - :dart: I’m planning to learn a new profession
 - :email: Reach me by [Telegram](https://t.me/@Vano-ISS), [Email](mailto:vanya5@inbox.ru)
 
+---
+
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
@@ -30,10 +32,10 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-ISS&theme=graywhite" alt="Github stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-ISS&theme=nord_dark" alt="Github stats"/>
 </div>
 
-
+---
 
 <!--
 **Ivan-ISS/Ivan-ISS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
