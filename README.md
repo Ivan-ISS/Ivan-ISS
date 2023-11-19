@@ -32,7 +32,7 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-ISS&theme=nord_dark" alt="Github stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan-ISS&theme=transparent" alt="Github stats"/>
 </div>
 
 ---
